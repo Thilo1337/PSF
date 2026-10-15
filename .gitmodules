@@ -1,0 +1,3 @@
+[submodule "submodules/motionblur"]
+	path = submodules/motionblur
+	url = https://github.com/LeviBorodenko/motionblur.git
